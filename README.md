@@ -1,0 +1,2 @@
+# Vital-Signs-Pregnancy-A-Data-Driven-Risk-Assessment-Dashboard
+This dashboard presents a comprehensive analysis of how key maternal vital signs—Blood Pressure, Blood Sugar (Glucose), Heart Rate, and Age—correlate with varying levels of pregnancy risk. Drawing insights from a dataset of 452 records, the goal is to uncover patterns that inform clinical awareness and early interventions in maternal health.
